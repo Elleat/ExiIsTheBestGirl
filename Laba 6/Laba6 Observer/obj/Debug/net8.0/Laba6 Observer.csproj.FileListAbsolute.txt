@@ -1,0 +1,14 @@
+F:\Вуз\Зорин\Projects\Laba6\Laba6 Observer\obj\Debug\net8.0\Laba6 Observer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Вуз\Зорин\Projects\Laba6\Laba6 Observer\obj\Debug\net8.0\Laba6 Observer.AssemblyInfoInputs.cache
+F:\Вуз\Зорин\Projects\Laba6\Laba6 Observer\obj\Debug\net8.0\Laba6 Observer.AssemblyInfo.cs
+F:\Вуз\Зорин\Projects\Laba6\Laba6 Observer\obj\Debug\net8.0\Laba6 Observer.csproj.CoreCompileInputs.cache
+F:\Вуз\Зорин\Projects\Laba6\Laba6 Observer\bin\Debug\net8.0\Laba6 Observer.exe
+F:\Вуз\Зорин\Projects\Laba6\Laba6 Observer\bin\Debug\net8.0\Laba6 Observer.deps.json
+F:\Вуз\Зорин\Projects\Laba6\Laba6 Observer\bin\Debug\net8.0\Laba6 Observer.runtimeconfig.json
+F:\Вуз\Зорин\Projects\Laba6\Laba6 Observer\bin\Debug\net8.0\Laba6 Observer.dll
+F:\Вуз\Зорин\Projects\Laba6\Laba6 Observer\bin\Debug\net8.0\Laba6 Observer.pdb
+F:\Вуз\Зорин\Projects\Laba6\Laba6 Observer\obj\Debug\net8.0\Laba6 Observer.dll
+F:\Вуз\Зорин\Projects\Laba6\Laba6 Observer\obj\Debug\net8.0\refint\Laba6 Observer.dll
+F:\Вуз\Зорин\Projects\Laba6\Laba6 Observer\obj\Debug\net8.0\Laba6 Observer.pdb
+F:\Вуз\Зорин\Projects\Laba6\Laba6 Observer\obj\Debug\net8.0\Laba6 Observer.genruntimeconfig.cache
+F:\Вуз\Зорин\Projects\Laba6\Laba6 Observer\obj\Debug\net8.0\ref\Laba6 Observer.dll
